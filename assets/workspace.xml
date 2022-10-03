@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="891965be-f5e2-49d2-a7ef-8e019879b662" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/custom-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font-awesome/fonts/fontawesome-webfontba72.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font-awesome/fonts/fontawesome-webfontba72.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font-awesome/fonts/fontawesome-webfontba72.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font-awesome/fonts/fontawesome-webfontba72.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font-awesome/fonts/fontawesome-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regulard41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/dataTables/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/dataTables/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/dataTables/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/morris/morris-0.4.3.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/morris/morris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/morris/raphael-2.1.0.min.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/assets" />
+  </component>
+  <component name="ProjectId" id="1YclZUrepFO0TJEsIb78mEQ42cO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="891965be-f5e2-49d2-a7ef-8e019879b662" name="Default Changelist" comment="" />
+      <created>1583249823801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583249823801</updated>
+      <workItem from="1583249846832" duration="94000" />
+      <workItem from="1583251673879" duration="3216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
